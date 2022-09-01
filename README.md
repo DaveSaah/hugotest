@@ -1,0 +1,2 @@
+# hugotest
+Testing hugo framework
